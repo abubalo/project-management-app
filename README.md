@@ -36,3 +36,41 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# X-note
+
+X-note is a productivity application built with React, Node.js Typescript, and MongoDB. The app allows users to create and manage Kanban boards, assign tasks to team members, choose task status, and switch between Kanban and Todo views. With X-note, you can easily organize your workflow and boost your productivity.
+
+## Features
+
+- Create and manage customizable Kanban boards
+- Assign tasks to team members
+- Choose task status
+- Switch between Kanban and Todo views
+- Real-time updates
+- User authentication and authorization
+- MongoDB database
+
+## Installation
+
+To install and run the application, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/abubalo/x-note.git`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
+
+## Dependencies
+
+X-note uses the following dependencies:
+
+- React
+- Node.js
+- Typescript
+- MongoDB
+- Express
+- ...
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
